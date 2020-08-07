@@ -12,12 +12,14 @@
 
 .logo-container img {
   height: 10rem;
+  max-width: 90vw;
   
   -webkit-user-drag: none;
 }
 
 .hero-image {
   width: 100%;
+  max-height: 50vh;
 
   -webkit-user-drag: none;
 }
@@ -74,7 +76,7 @@
 }
 
 .buttons-container a.give-classes {
-  background: var(--color-secundary);
+  background: var(--color-secondary);
 }
 
 .buttons-container a.study:hover {
@@ -82,7 +84,7 @@
 }
 
 .buttons-container a.give-classes:hover {
-  background: var(--color-secundary-dark);
+  background: var(--color-secondary-dark);
 }
 
 .total-connections {
@@ -144,5 +146,54 @@
   .total-connections {
     grid-area: total;
     justify-self: end;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .logo-container img {
+    height: 15vh;
+    max-width: 90vw;
+  }
+
+  .hero-image {
+    height: 35vh;
+  }
+
+  @media (max-height: 370px) {
+    .buttons-container a {
+      font-size: 2rem;
+      width: 20rem;
+      height: 5.4rem;
+    }
+    
+    .hero-image {
+      position: absolute;
+      top: 25vh;
+      right: 1vw;
+      height: 90vh;
+      width: auto;
+      max-width: 35vw !important;
+    }
+
+    #page-landing {
+      justify-content: flex-start;
+    }
+
+    #page-landing-content {
+      width: auto;
+      margin-left: 1vw;
+    }
+  }
+}
+
+@media (max-width: 1100px) and (max-height: 800px) {
+  .logo-container img {
+    height: 10vh;
+    max-width: 90vw;
+  }
+
+  .hero-image {
+    max-height: 40vh;
+    max-width: 90vw;
   }
 }
