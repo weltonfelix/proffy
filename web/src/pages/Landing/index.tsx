@@ -9,7 +9,7 @@ import giveClassesIcon from '../../assets/images/icons/give-classes.svg';
 import purpleHeartIcon from '../../assets/images/icons/purple-heart.svg';
 
 import "./styles.css";
-import api from '../../assets/services/api';
+import api from '../../services/api';
 
 function Landing() {
   const [totalConnections, setTotalConnections] = useState(0);
