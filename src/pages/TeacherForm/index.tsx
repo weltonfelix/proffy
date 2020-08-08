@@ -8,7 +8,7 @@ import Select from '../../components/Select';
 
 import warningIcon from '../../assets/images/icons/warning.svg';
 
-import api from '../../assets/services/api';
+import api from '../../services/api';
 
 import './styles.css';
 
