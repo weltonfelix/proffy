@@ -4,7 +4,9 @@
   "main": "src/server.ts",
   "license": "MIT",
   "scripts": {
-    "start": "tsnd --transpile-only --ignore-watch node_modules --respawn $npm_package_main",
+    "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn $npm_package_main",
+    "start": "node dist/src/server.js",
+    "build": "tsc",
     "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
     "knex:migrate:rollback": "knex --knexfile knexfile.ts migrate:rollback"
   },
@@ -16,6 +18,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "knex": "^0.21.2",
     "sqlite3": "^5.0.0"
