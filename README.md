@@ -23,46 +23,23 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
     <img alt="Issues" src="https://img.shields.io/github/issues/weltonfelix/proffy">
   </a>
 <a aria-label="">
-    <img src="https://img.shields.io/badge/Next Level Week-beta-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+    <img src="https://img.shields.io/badge/Next Level Week-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   <a href="https://github.com/weltonfelix/proffy/blob/master/LICENSE" target="_blank">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"/>
   </a>
 </p>
 
-### ✨ [Demo (Coming soon)](https://github.com/weltonfelix/proffy)
+### ✨ [Demo](https://github.com/weltonfelix/proffy)
 
-<!--<h2 align='center'>
-      <img title="Web" alt="web" src="./gif-web.gif" width="50%">
-</h2>      
 <h2 align='center'>
-      <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
-	<br>
-	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
-</h2>-->
+      <img title="Web" alt="web" src="./gif-web.gif" width="50%">
+</h2> 
 
 ## :notebook: Getting Started
 1. Clone this repository
-2. `cd server`
-3. `yarn`
-4. Rename `.env.template` to `.env`.
-5. Add your host url.
-6. `yarn knex:migrate`
-7. `cd ../web`
-8. `yarn`
-9. `cd ../mobile`
-10. `yarn`
-11. `cd ..`
-12. To start server
-   1. `cd server`
-   2. `yarn start`
-13. To start web
-    1. `cd web`
-    2. `yarn start`
-14. To start mobile
-    1. `cd mobile`
-    2. `yarn start`
-15. Enjoy!
+2. `yarn start`
+3. Enjoy!
 
 ## 🤝 Contributing
 
