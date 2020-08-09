@@ -40,7 +40,7 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
 
 ## :notebook: Getting Started
 1. Clone this repository
-2. `cd mobile`
+2. `yarn`
 3. `yarn start`
 4. Enjoy!
 
