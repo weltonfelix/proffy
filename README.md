@@ -30,39 +30,19 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
   </a>
 </p>
 
-### ✨ [Demo (Coming soon)](https://github.com/weltonfelix/proffy)
-
-<!--<h2 align='center'>
-      <img title="Web" alt="web" src="./gif-web.gif" width="50%">
-</h2>      
+### ✨ [Demo](https://github.com/weltonfelix/proffy)
+    
 <h2 align='center'>
       <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
 	<br>
 	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
-</h2>-->
+</h2>
 
 ## :notebook: Getting Started
 1. Clone this repository
-2. `cd server`
-3. `yarn`
-4. Rename `.env.template` to `.env`.
-5. Add your host url.
-6. `yarn knex:migrate`
-7. `cd ../web`
-8. `yarn`
-9. `cd ../mobile`
-10. `yarn`
-11. `cd ..`
-12. To start server
-   1. `cd server`
-   2. `yarn start`
-13. To start web
-    1. `cd web`
-    2. `yarn start`
-14. To start mobile
-    1. `cd mobile`
-    2. `yarn start`
-15. Enjoy!
+2. `cd mobile`
+3. `yarn start`
+4. Enjoy!
 
 ## 🤝 Contributing
 
