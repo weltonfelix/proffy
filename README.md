@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-# Proffy
 Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com/rocketseat), taught by [@diego3g](https://github.com/diego3g).
 <p align="center">
   <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/proffy?color=%2304D361">
