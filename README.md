@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+# Proffy
+
 Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com/rocketseat), taught by [@diego3g](https://github.com/diego3g).
 <p align="center">
   <img alt="Github language counter" src="https://img.shields.io/github/languages/count/weltonfelix/proffy?color=%2304D361">
@@ -29,16 +31,16 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
   </a>
 </p>
 
-### ✨ [Demo (Coming soon)](https://github.com/weltonfelix/proffy)
+### ✨ [Demo](https://proffy-v1.netlify.app)
 
-<!--<h2 align='center'>
+<h2 align='center'>
       <img title="Web" alt="web" src="./gif-web.gif" width="50%">
 </h2>      
 <h2 align='center'>
       <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
 	<br>
 	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
-</h2>-->
+</h2>
 
 ## :notebook: Getting Started
 1. Clone this repository
