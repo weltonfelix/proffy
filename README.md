@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a target="blank" href="https://github.com/weltonfelix/proffy">
+  <a target="blank" href="https://proffy-v1.netlify.app">
     <img alt="Proffy" title="Acesse o site" src="./logo.svg" width="30%" />
   </a>
 </h1>
@@ -45,24 +45,25 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
 1. Clone this repository
 2. `cd server`
 3. `yarn`
-4. Rename `.env.template` to `.env`.
-5. Add your host url.
-6. `yarn knex:migrate`
-7. `cd ../web`
-8. `yarn`
-9. `cd ../mobile`
-10. `yarn`
-11. `cd ..`
-12. To start server
+4. Setup your Postgres database.
+5. Rename `.env.template` to `.env`.
+6. Add your host url and database information.
+7. `yarn knex:migrate`
+8. `cd ../web`
+9. `yarn`
+10. `cd ../mobile`
+11. `yarn`
+12. `cd ..`
+13. To start server
    1. `cd server`
-   2. `yarn start`
-13. To start web
+   2. `yarn dev`
+14. To start web
     1. `cd web`
     2. `yarn start`
-14. To start mobile
+15. To start mobile
     1. `cd mobile`
     2. `yarn start`
-15. Enjoy!
+16. Enjoy!
 
 ## 🤝 Contributing
 
