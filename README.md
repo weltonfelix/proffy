@@ -34,10 +34,14 @@ Project carried out for Next Level Week #2 from [@Rocketseat](https://github.com
 ### ✨ [Demo](https://proffy-v1.netlify.app)
 
 <h2 align='center'>
-      <img title="Web" alt="web" src="./gif-web.gif" width="50%">
+	<a href="https://proffy-v1.netlify.app/">
+      		<img title="Web" alt="web" src="./gif-web.gif" width="50%">	
+	</a>
 </h2>      
 <h2 align='center'>
-      <img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
+	<a href="https://github.com/weltonfelix/proffy/releases/tag/v1.0-mobile">
+      		<img title="Mobile" alt="mobile" src="./gif-mobile.gif" width="25%">
+	</a>
 	<br>
 	<img title="Runs with expo" alt="Runs with expo" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000">
 </h2>
